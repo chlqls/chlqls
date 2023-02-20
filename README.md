@@ -1,5 +1,7 @@
 ## 👋 Hi there! I'm Been Choi.
-<br />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchlqls&count_bg=%2300462A&title_bg=%2300462A&icon=&icon_color=%23D8D8D8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <div align = center>
   <h3> 🌱 I’m currently learning ... </h3>
