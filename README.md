@@ -20,8 +20,8 @@
   <br /><br /><br />
   
   <h3> 🚀 Github Status </h3>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chlqls&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlqls&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chlqls&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chlqls&layout=compact" />
   </div>
 
 <!--
